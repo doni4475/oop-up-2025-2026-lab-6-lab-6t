@@ -1,0 +1,9 @@
+package Five;
+
+import Five.view.DrawFrame;
+
+public class Main {
+    public static void main(String[] args) {
+        new DrawFrame("Draw Application");
+    }
+}
